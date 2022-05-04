@@ -1,0 +1,90 @@
+#page1{
+    height: 60vh;
+    width: 80%;
+    margin: auto;
+   
+}
+
+#top{
+    text-align: center;
+    margin: 10%;
+    padding-top: 5%;
+    
+}
+
+#bottom{
+    width: 100%;
+    
+}
+#details{
+    width: 30%;
+    
+    margin-left: 8%;
+    float: left;
+    padding-bottom: 9%;
+}
+#form{
+    display: inline;
+    width: 40%;
+    margin-right: 8%;
+    float:right;
+    
+   
+
+}
+#message{
+    width: 98%;
+    margin-top: 10px;
+}
+#text{
+    float: left;
+}
+#email{
+   display: inline;
+   float: right;
+}
+input{
+    height: 40px;
+}
+#submit{
+    background-color: black;
+    float: right;
+    color: white;
+    margin-top: 3px;
+    height: 40px;
+}
+
+
+#tbl{
+    margin: auto;
+    width: 80%;
+    
+    text-align: left;
+    
+
+}
+tr{
+    width: 100%;
+   
+}
+table{
+    width: 100%;
+}
+#heading{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+tr:hover{
+    background-color: #ddd;
+}
+th{
+    padding-left: 3%;
+
+}
+td{
+    padding-left: 3%;
+}
+tr:nth-child(even){
+    background-color: wheat;
+}
